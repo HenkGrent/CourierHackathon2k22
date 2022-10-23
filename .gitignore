@@ -1,2 +1,5 @@
 # Project exclude paths
 /target/
+/tokens
+src/main/resources/credentials.json
+.idea
